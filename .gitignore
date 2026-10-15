@@ -1,0 +1,10 @@
+# Local development infobases, caches and logs
+/.local/
+
+# Binary 1C configurations, extensions and infobase dumps
+*.cf
+*.cfe
+*.dt
+*.1CD
+*.cfl
+*.v8i

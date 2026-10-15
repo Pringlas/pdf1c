@@ -1,7 +1,7 @@
-# Local development infobases, caches and logs
+# Локальные базы разработки, кеш и журналы
 /.local/
 
-# Binary 1C configurations, extensions and infobase dumps
+# Бинарные конфигурации, расширения и выгрузки информационных баз 1С
 *.cf
 *.cfe
 *.dt

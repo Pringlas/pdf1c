@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
-		<Metadata name="Configuration.PDF1C" id="59d05f21-f7b6-417d-9769-994da1afe8c4" configVersion="a21a57938e591d4590b4c9c354b70b0800000000"/>
-		<Metadata name="Language.Русский" id="5d1e770d-1aed-42a0-802a-e46b3336a50a" configVersion="d0475ad3c1203a44b5f4bf74e1b741e900000000"/>
+		<Metadata name="CommonModule.pdf_РаботаСДокументамиКлиент" id="02eb3e3b-8bfc-4f81-9efa-93af4fd0bfdd" configVersion="f0733714ae77b74096db4aece65b866200000000"/>
+		<Metadata name="CommonModule.pdf_РаботаСДокументамиКлиент.Module" id="02eb3e3b-8bfc-4f81-9efa-93af4fd0bfdd.0" configVersion="28cf8953823f6840b79149e6c293286800000000"/>
+		<Metadata name="CommonModule.pdf_РаботаСДокументамиСервер" id="93f3f78f-0773-42fa-afa1-f90da755644e" configVersion="2438efa052bd1141a10c42b71b3ecd7300000000"/>
+		<Metadata name="CommonModule.pdf_РаботаСДокументамиСервер.Module" id="93f3f78f-0773-42fa-afa1-f90da755644e.0" configVersion="fed8fe0e20384d4e8aea7bba7a3a4fc300000000"/>
+		<Metadata name="CommonTemplate.PdfAddin" id="cf264098-061d-4fe3-9072-9e3a419607d2" configVersion="3c58c9a83d6cfc4fba71293fee81057600000000"/>
+		<Metadata name="Configuration.PDF1C" id="59d05f21-f7b6-417d-9769-994da1afe8c4" configVersion="1106bc0b1fd9f544a4d860429b68f38400000000"/>
+		<Metadata name="Language.Русский" id="5d1e770d-1aed-42a0-802a-e46b3336a50a" configVersion="c385243b5fbec944a21fcbc91ca5716400000000"/>
+		<Metadata name="Subsystem.pdf1c" id="1b4b65ab-7f6b-4795-8c5a-6eb2ed63a113" configVersion="09790f888b9f7542ac2a2c5329da5fef00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
